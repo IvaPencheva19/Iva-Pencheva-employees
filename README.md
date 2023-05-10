@@ -1,2 +1,2 @@
 # Iva-Pencheva-employees
-App that read csv file content and process data for employees. (npm start to run)
+React App that read csv file content and Server process data for employees. (npm start to run)
